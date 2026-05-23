@@ -1,6 +1,6 @@
 # AntiSurveilanceVisual
 
-**Generate a wall of text perfect for media critical of mass surveilance using a python script.**
+Customize your list of locations in the beginning of the file.
 
 **Example usage w/ name "Citizen #514862" and iterations set to 20:**
 
