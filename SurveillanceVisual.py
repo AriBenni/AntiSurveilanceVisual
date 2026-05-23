@@ -1,7 +1,13 @@
 import math
 import random
 
+## Change your list of locations here!
+
 location = ["Tustin", "Irvine", "Anaheim", "Costa Mesa", "Los Angeles", "Merced", "UC Irvine", "Santa Cruz", "Santa Ana", "Orange", "Fullerton", "Westminster", "Norwalk", "Downey", "Inglewood","North Tustin","East Los Angeles","Compton","Carson","Long Beach"]
+
+## Don't touch anything under this unless you know what you're doing
+## -----------------------------------------------------------------------------------
+
 status = ["entered", "exited"]
 prev = -1
 hour = 0
