@@ -1,7 +1,7 @@
 import math
 import random
 
-location = ["Tustin", "Irivne", "Anaheim", "Costa Mesa", "Los Angeles", "Merced", "UC Irvine", "Santa Cruz", "Santa Ana", "Orange", "Fullerton", "Westminster", "Norwalk", "Downey", "Inglewood","North Tustin","East Los Angeles","Compton","Carson","Long Beach"]
+location = ["Tustin", "Irvine", "Anaheim", "Costa Mesa", "Los Angeles", "Merced", "UC Irvine", "Santa Cruz", "Santa Ana", "Orange", "Fullerton", "Westminster", "Norwalk", "Downey", "Inglewood","North Tustin","East Los Angeles","Compton","Carson","Long Beach"]
 status = ["entered", "exited"]
 prev = -1
 hour = 0
